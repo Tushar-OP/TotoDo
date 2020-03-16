@@ -1,16 +1,14 @@
-# tododo
+# TodoDo📝
 
-A new Flutter application.
+A todo app built with flutter❤.
 
-## Getting Started
+It has the basic all the basic funtionality like adding a task, check off a task or deleting one.
 
-This project is a starting point for a Flutter application.
+Note: Long pressing the task name deletes it.
 
-A few resources to get you started if this is your first Flutter project:
+Feel unorganized? Use this!
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<img src="totodo.gif" height=450px/>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+Cheers!✨
